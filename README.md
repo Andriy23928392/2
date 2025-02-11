@@ -1,4 +1,4 @@
-// Задача 1: Виведення символу та його ASCII-кодів
+// Задача 1
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -13,7 +13,7 @@ int main() {
     return 0;
 }
 
-// Задача 2: Арифметичні операції з точністю до 12 знаків
+// Задача 2
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -34,7 +34,7 @@ int main() {
     return 0;
 }
 
-// Задача 3: Перевірка подільності числа
+// Задача 3
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -51,7 +51,7 @@ int main() {
     return 0;
 }
 
-// Задача 4: Перетворення температур
+// Задача 4
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -78,7 +78,7 @@ int main() {
     return 0;
 }
 
-// Задача 5: Переведення балів у оцінки
+// Задача 5
 #include <iostream>
 using namespace std;
 
